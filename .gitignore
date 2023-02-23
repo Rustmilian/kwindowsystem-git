@@ -1,0 +1,4 @@
+src/
+pkg/
+kwindowsystem/
+*pkg.tar.zst*
